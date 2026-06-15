@@ -69,6 +69,7 @@ Python, Pandas, Plotly Express, Streamlit, Git/GitHub.
 Visualización interactiva, construcción de dashboards, exploración de datos y comunicación clara de información.
 
 [Ver demo](https://vehicles-dashboard-danielpdls.streamlit.app/)
+
 [Ver repositorio](https://github.com/danielpdls/dashboard-vehiculos-usados-streamlit)
 
 
