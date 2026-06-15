@@ -59,16 +59,18 @@ Limpieza de datos, análisis exploratorio, generación de métricas, organizaci�
 
 Aplicación web interactiva desarrollada con Streamlit para explorar datos de vehículos usados en Estados Unidos.
 
-**Objetivo:**  
+**Objetivo:**
 Crear una herramienta visual que permita analizar variables como precio, kilometraje, año del modelo y condición del vehículo mediante gráficos interactivos.
 
-**Herramientas:**  
+**Herramientas:**
 Python, Pandas, Plotly Express, Streamlit, Git/GitHub.
 
-**Competencias aplicadas:**  
+**Competencias aplicadas:**
 Visualización interactiva, construcción de dashboards, exploración de datos y comunicación clara de información.
 
+[Ver demo](https://vehicles-dashboard-danielpdls.streamlit.app/)
 [Ver repositorio](https://github.com/danielpdls/dashboard-vehiculos-usados-streamlit)
+
 
 ---
 
